@@ -1,0 +1,6 @@
+classes=1
+train=./data/catface_train90.txt
+valid=./data/catface_valid10.txt
+names=data/catface.names
+backup=backup/
+eval=catface
